@@ -2,7 +2,7 @@
 
 # O projeto
 Projeto desenvolvido durante o curso "CSS Avançado Posicionamento" da Origamid - https://www.origamid.com/curso/css-avancado-posicionamento/ -
-focado em desenvolver uma página home para um site de uma marca de café, com um layout responsivo e utilizando o Flexbox.
+focado em desenvolver uma página de produtos para um site de uma marca de café, com um layout responsivo e utilizando o Flexbox.
 
 # Tecnologias utilizadas
 - HTML
